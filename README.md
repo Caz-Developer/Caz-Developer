@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Beast</h1>
+<h1 align="center">Hi There👋, I'm Caz</h1>
 <h3 align="center">A young coder who loves to explore his limits</h3>
 
 - 🌱 I’m currently learning golang, python, javascript, lua, rust
