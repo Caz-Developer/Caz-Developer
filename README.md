@@ -1,14 +1,13 @@
 <h1 align="center">Hi There👋, I'm Caz</h1>
 <h3 align="center">A young coder who loves to explore his limits</h3>
 
-- 🌱 I’m currently learning golang, python, javascript, lua, rust
+- 🌱 I Dev Python, Lua, Javascript, Websites
 
 - ☕ I'm currently working on:
-    Synth Bot
+    London Gaming Community
 
-- 📝 I code in [JavaScript](https://www.python.org/downloads/) alot!
+- 📝 I code in [Python](https://www.python.org/downloads/) alot!
 
-- ⚡ My best project is [Exile](https://top.gg/bot/804398559046795264)
 
 --- 
 
@@ -17,7 +16,7 @@
   
 <p align="left">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
