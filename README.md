@@ -1,14 +1,11 @@
-<h1 align="center">Hi There👋, I'm Caz</h1>
+<h1 align="center">Hi There👋, I'm Callum</h1>
 <h3 align="center">A young coder who loves to explore his limits</h3>
 
-- 🌱 I Dev Python, Lua, Javascript, Websites
+- 🌱 I code in | Lua, Python, Javascript, GoLang
 
 - ☕ I'm currently working on:
-    London Gaming Community
-
-- 📝 I code in [Python](https://www.python.org/downloads/) alot!
-
-
+    ?
+    
 --- 
 
 <details>
@@ -30,8 +27,8 @@
 <details>
   <summary>⌨ GitHub Stats</summary>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caz-Developer&layout=compact" alt="beast"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caz-Developer&show_icons=true" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-callum&layout=compact" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-callum&show_icons=true" alt="beast"/>
 
 </details>
 
