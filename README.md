@@ -25,6 +25,6 @@
 
 <details>
   <summary>⌨ GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callum1337&layout=compact" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callum1337" alt="beast"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=callum1337&show_icons=true" alt="beast"/>
 </details>
