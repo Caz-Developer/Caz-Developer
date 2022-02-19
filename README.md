@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="ejs" width="40" height="40"/>
 </p>
 </details>
-``` ```
+
 
 <details>
   <summary>⌨ GitHub Stats</summary>
