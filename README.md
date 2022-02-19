@@ -21,12 +21,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="ejs" width="40" height="40"/>
 </p>
 </details>
----
+``` ```
+
 <details>
   <summary>⌨ GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-callum&layout=compact" alt="beast"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-callum&show_icons=true" alt="beast"/>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callum1337&layout=compact" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callum1337&show_icons=true" alt="beast"/>
 </details>
-
----
