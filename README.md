@@ -1,6 +1,6 @@
-<h1 align="center">Hi There👋, I'm Callum</h1>
+<h1 align="center">Hi There👋, I'm IPZ</h1>
 
-- 🌱 I Program in: LUA, Javascript, Python, and a small bit of C#
+- 🌱 I Program in: LUA, Javascript, Python and do Website Deveopment
 
 - ☕ I'm currently working on: Open Source Projects!
     
@@ -25,6 +25,6 @@
 
 <details>
   <summary>⌨ GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callum1337" alt="beast"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=callum1337&show_icons=true" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipz1337" alt="beast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipz1337&show_icons=true" alt="beast"/>
 </details>
